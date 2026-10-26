@@ -1,0 +1,78 @@
+// Shattered Life - Aperture Science Grenade Launcher (Prototype)
+// Primary: lob a bouncing grenade (goes through portals). Secondary: detonate all.
+// PLACEHOLDER MODEL: SMG1 until the prototype model exists.
+
+WeaponData
+{
+	"printname"			"#SL_ApertureGL"
+	"viewmodel"			"models/weapons/v_smg1.mdl"
+	"playermodel"		"models/weapons/w_smg1.mdl"
+	"anim_prefix"		"smg2"
+	"bucket"			"3"
+	"bucket_position"	"0"
+	"bucket_360"			"1"
+	"bucket_position_360"	"1"
+
+	"clip_size"			"4"
+	"default_clip"		"4"
+	"clip2_size"		"-1"
+	"default_clip2"		"-1"
+	"primary_ammo"		"ApertureGrenade"
+	"secondary_ammo"	"None"
+
+	"weight"			"4"
+	"rumble"			"3"
+	"item_flags"		"0"
+
+	Gunplay
+	{
+		"sway"			"1.1"
+		"kick_back"		"2.0"
+		"kick_pitch"	"2.2"
+	}
+
+	SoundData
+	{
+		"empty"			"Weapon_SMG1.Empty"
+		"reload"		"Weapon_SMG1.Reload"
+		"double_shot"	"Weapon_ApertureGL.Launch"
+		"special1"		"Weapon_ApertureGL.Detonate"
+	}
+
+	TextureData
+	{
+		"weapon"
+		{
+			"font"		"WeaponIcons"
+			"character"	"a"
+		}
+		"weapon_s"
+		{
+			"font"		"WeaponIconsSelected"
+			"character"	"a"
+		}
+		"weapon_small"
+		{
+			"font"		"WeaponIconsSmall"
+			"character"	"a"
+		}
+		"ammo"
+		{
+			"font"		"WeaponIconsSmall"
+			"character"	"t"
+		}
+		"crosshair"
+		{
+			"font"		"Crosshairs"
+			"character"	"Q"
+		}
+		"autoaim"
+		{
+			"file"		"sprites/crosshairs"
+			"x"			"0"
+			"y"			"48"
+			"width"		"24"
+			"height"	"24"
+		}
+	}
+}

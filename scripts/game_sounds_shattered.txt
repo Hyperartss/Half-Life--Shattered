@@ -1,0 +1,130 @@
+// Shattered Life weapon sounds.
+// All of these point at stock HL2 sounds for now (pitched / layered so each
+// weapon has its own voice). Drop real .wavs into sound/weapons/shattered/
+// and change the paths here when you have them.
+
+"Weapon_SL.IronsightIn"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.45"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"			"105,115"
+	"wave"			"weapons/smg1/switch_single.wav"
+}
+
+"Weapon_SL.IronsightOut"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.35"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"			"90,100"
+	"wave"			"weapons/smg1/switch_burst.wav"
+}
+
+// ---------------- Wrench ----------------
+"Weapon_Wrench.Melee_Hit"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"			"82,92"
+	"rndwave"
+	{
+		"wave"	"weapons/crowbar/crowbar_impact1.wav"
+		"wave"	"weapons/crowbar/crowbar_impact2.wav"
+	}
+}
+
+"Weapon_Wrench.Melee_HitWorld"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_80dB"
+	"pitch"			"88,98"
+	"rndwave"
+	{
+		"wave"	"physics/metal/metal_solid_impact_hard1.wav"
+		"wave"	"physics/metal/metal_solid_impact_hard4.wav"
+		"wave"	"physics/metal/metal_solid_impact_hard5.wav"
+	}
+}
+
+"Weapon_Wrench.HeavyWindup"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"			"65,72"
+	"wave"			"weapons/iceaxe/iceaxe_swing1.wav"
+}
+
+// ---------------- Deagle ----------------
+"Weapon_Deagle.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"106,114"
+	"rndwave"
+	{
+		"wave"	"weapons/357/357_fire2.wav"
+		"wave"	"weapons/357/357_fire3.wav"
+	}
+}
+
+// ---------------- Organic rifle ----------------
+"Weapon_OrganicRifle.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.85"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"82,90"
+	"wave"			"weapons/ar2/fire1.wav"
+}
+
+"Weapon_OrganicRifle.Regrow"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.35"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"			"90,110"
+	"wave"			"physics/flesh/flesh_squishy_impact_hard1.wav"
+}
+
+// ---------------- Aperture grenade launcher ----------------
+"Weapon_ApertureGL.Launch"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"112,120"
+	"wave"			"weapons/grenade_launcher1.wav"
+}
+
+"Weapon_ApertureGL.Detonate"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.8"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"			"100"
+	"wave"			"buttons/button17.wav"
+}
+
+"Weapon_ApertureGL.Blip"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.6"
+	"soundlevel"	"SNDLVL_75dB"
+	"pitch"			"135"
+	"wave"			"buttons/blip1.wav"
+}
+
+// ---------------- Barnacle ----------------
+"Weapon_Barnacle.TongueHit"
+{
+	"channel"		"CHAN_ITEM"
+	"volume"		"0.8"
+	"soundlevel"	"SNDLVL_NORM"
+	"pitch"			"95,110"
+	"wave"			"physics/flesh/flesh_squishy_impact_hard1.wav"
+}

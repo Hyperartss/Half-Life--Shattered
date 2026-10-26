@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/v_ar2_organic/organic_rifle"
+	"$bumpmap" "models/weapons/v_ar2_organic/organic_rifle_normal"
+	"$surfaceprop" "metal"
+	"$phong" "1"
+	"$phongexponent" "18"
+	"$phongboost" "0.7"
+	"$phongfresnelranges" "[0.2 0.5 1]"
+}

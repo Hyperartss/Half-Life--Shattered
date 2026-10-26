@@ -1,0 +1,99 @@
+// Shattered Life - Combine Organic Rifle
+// Full auto, AR2 ammo. Right click = aim down sights. Middle mouse (+attack3) = bio orb.
+// Slowly regrows reserve ammo while you are not firing (sl_orifle_regen*).
+
+WeaponData
+{
+	"printname"			"#SL_OrganicRifle"
+	"viewmodel"			"models/weapons/v_ar2_organic.mdl"
+	"playermodel"		"models/weapons/w_ar2_organic.mdl"
+	"anim_prefix"		"ar2"
+	"bucket"			"2"
+	"bucket_position"	"0"
+	"bucket_360"			"1"
+	"bucket_position_360"	"2"
+
+	"clip_size"			"30"
+	"default_clip"		"30"
+	"clip2_size"		"-1"
+	"default_clip2"		"-1"
+	"primary_ammo"		"AR2"
+	"secondary_ammo"	"AR2AltFire"
+
+	"weight"			"5"
+	"rumble"			"4"
+	"item_flags"		"0"
+
+	IronSight
+	{
+		"forward"	"-3"
+		"right"		"-6.2"
+		"up"		"1.9"
+		"pitch"		"0.2"
+		"yaw"		"0"
+		"roll"		"0"
+		"fov"		"60"
+	}
+
+	Gunplay
+	{
+		"sway"			"0.9"
+		"kick_back"		"0.9"
+		"kick_pitch"	"1.4"
+	}
+
+	SoundData
+	{
+		"special1"		"Weapon_CombineGuard.Special1"
+		"empty"			"Weapon_IRifle.Empty"
+		"double_shot"	"Weapon_IRifle.Single"
+		"reload"		"Weapon_AR2.Reload"
+		"single_shot"	"Weapon_OrganicRifle.Single"
+
+		"single_shot_npc"	"Weapon_AR2.NPC_Single"
+		"reload_npc"		"Weapon_AR2.NPC_Reload"
+		"double_shot_npc"	"Weapon_AR2.NPC_Double"
+	}
+
+	TextureData
+	{
+		"weapon"
+		{
+			"font"		"WeaponIcons"
+			"character"	"l"
+		}
+		"weapon_s"
+		{
+			"font"		"WeaponIconsSelected"
+			"character"	"l"
+		}
+		"weapon_small"
+		{
+			"font"		"WeaponIconsSmall"
+			"character"	"l"
+		}
+		"ammo"
+		{
+			"font"		"WeaponIconsSmall"
+			"character"	"u"
+		}
+		"ammo2"
+		{
+			"font"		"WeaponIconsSmall"
+			"character"	"z"
+		}
+		"crosshair"
+		{
+			"font"		"Crosshairs"
+			"character"	"Q"
+		}
+		"autoaim"
+		{
+			"file"		"sprites/crosshairs"
+			"x"			"0"
+			"y"			"48"
+			"width"		"24"
+			"height"	"24"
+		}
+	}
+}

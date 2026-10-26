@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/v_wrench/wrench_invisible"
+	"$translucent" "1"
+	"$alpha" "0"
+	"$nocull" "1"
+}

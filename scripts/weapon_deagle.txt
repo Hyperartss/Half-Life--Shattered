@@ -1,0 +1,90 @@
+// Shattered Life - Desert Eagle
+// Semi-auto, 357 ammo. Right click = aim down sights.
+// PLACEHOLDER MODEL: v_357 until models/weapons/v_deagle.mdl is compiled.
+// When it is, change the two model lines and re-tune the IronSight block
+// (use sl_vm_ironsight_edit 1 in the console to tune it live).
+
+WeaponData
+{
+	"printname"			"#SL_Deagle"
+	"viewmodel"			"models/weapons/v_357.mdl"
+	"playermodel"		"models/weapons/w_357.mdl"
+	"anim_prefix"		"python"
+	"bucket"			"1"
+	"bucket_position"	"0"
+	"bucket_360"			"0"
+	"bucket_position_360"	"1"
+
+	"clip_size"			"7"
+	"default_clip"		"7"
+	"clip2_size"		"-1"
+	"default_clip2"		"-1"
+	"primary_ammo"		"357"
+	"secondary_ammo"	"None"
+
+	"weight"			"7"
+	"rumble"			"2"
+	"item_flags"		"0"
+
+	IronSight
+	{
+		"forward"	"-2"
+		"right"		"-5.05"
+		"up"		"1.55"
+		"pitch"		"0.4"
+		"yaw"		"0.05"
+		"roll"		"0"
+		"fov"		"68"
+	}
+
+	Gunplay
+	{
+		"sway"			"1.0"
+		"kick_back"		"2.4"
+		"kick_pitch"	"3.0"
+	}
+
+	SoundData
+	{
+		"empty"			"Weapon_Pistol.Empty"
+		"single_shot"	"Weapon_Deagle.Single"
+		"reload"		"Weapon_357.Reload"
+	}
+
+	TextureData
+	{
+		"weapon"
+		{
+			"font"		"WeaponIcons"
+			"character"	"e"
+		}
+		"weapon_s"
+		{
+			"font"		"WeaponIconsSelected"
+			"character"	"e"
+		}
+		"weapon_small"
+		{
+			"font"		"WeaponIconsSmall"
+			"character"	"e"
+		}
+		"ammo"
+		{
+			"font"		"WeaponIconsSmall"
+			"character"	"q"
+		}
+		"crosshair"
+		{
+			"font"		"Crosshairs"
+			"character"	"Q"
+		}
+		"autoaim"
+		{
+			"file"		"sprites/crosshairs"
+			"x"			"0"
+			"y"			"48"
+			"width"		"24"
+			"height"	"24"
+		}
+	}
+}
