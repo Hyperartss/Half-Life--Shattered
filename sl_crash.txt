@@ -1,0 +1,2 @@
+loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\client.dll (pid 296)
+loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\server.dll (pid 296)
