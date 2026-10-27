@@ -4964,3 +4964,2641 @@ Attempting to create unknown particle system 'train_steam'
 Redownloading all lightmaps
 R_RedownloadAllLightmaps took 4.450 msec!
 TICK:  121:Ragdoll separation count: 2
+CSoundEmitterSystem:  Registered 5239 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (217 rules, 214 criteria, and 208 responses)
+Particles: Missing 'particles/portalgun.pcf'
+Particles: Missing 'particles/portal_projectile.pcf'
+Particles: Missing 'particles/portals.pcf'
+Particles: Missing 'particles/cleansers.pcf'
+Particles: Missing 'particles/tubes.pcf'
+Particles: Missing 'particles/environment.pcf'
+Particles: Missing 'particles/glados.pcf'
+Particles: Missing 'particles/neurotoxins.pcf'
+Particles: Missing 'particles/finale_fx.pcf'
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: Z:\home\hyper\.steam\debian-installation\steamapps\common\Half-Life 2\platform\config
+Parsed 26 text messages
+CClientSteamContext logged on = 1
+Particles: Missing 'particles/portalgun.pcf'
+Particles: Missing 'particles/portal_projectile.pcf'
+Particles: Missing 'particles/portals.pcf'
+Particles: Missing 'particles/cleansers.pcf'
+Particles: Missing 'particles/tubes.pcf'
+Particles: Missing 'particles/environment.pcf'
+Particles: Missing 'particles/glados.pcf'
+Particles: Missing 'particles/neurotoxins.pcf'
+Particles: Missing 'particles/finale_fx.pcf'
+Couldn't parse script sequence 'SuitAuxPowerNoItemsActive': expected <anim command>, found '[!$DECK]'
+Hud element 'CHudPortalCrosshair' doesn't have an entry 'HudPortalCrosshair' in scripts/HudLayout.res
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+Hud element 'CHudLocator' doesn't have an entry 'HudLocator' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+Couldn't parse script sequence 'SuitAuxPowerNoItemsActive': expected <anim command>, found '[!$DECK]'
+ModSettingsPanel has been constructed
+[Cloud]: SUCCEESS retrieved cfg/config.cfg from remote storage into cfg/config.cfg
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+[Cloud]: SUCCEESS retrieved materials/vgui/logos/spray.vtf from remote storage into materials/vgui/logos/spray.vtf
+[Cloud]: SUCCEESS retrieved materials/vgui/logos/spray.vmt from remote storage into materials/vgui/logos/spray.vmt
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+24 CPUs, Frequency: 3.8 Ghz,  Features: AuthenticAMD SSE SSE2 MMX RDTSC CMOV FCMOV
+[CWorkshop] Querying for subscribed files...
+[CWorkshop] Subscribed item count: 0
+execing modsettings_default.cfg
+execing valve.rc
+execing autoexec.cfg
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: sl_cold_open
+env_cubemap used on world geometry without rebuilding map. . ignoring: metal/metalwall002a
+env_cubemap used on world geometry without rebuilding map. . ignoring: concrete/concretefloor005a
+env_cubemap used on world geometry without rebuilding map. . ignoring: metal/metalcombine001
+env_cubemap used on world geometry without rebuilding map. . ignoring: metal/metalwall001a
+execing skill_manifest.cfg
+execing skill.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Failed to load models/portals/portal1.mdl!
+Failed to load models/portals/portal2.mdl!
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 1
+Done version checks
+Finishing load
+PrecacheScriptSound 'NPC_CombineBall_Episodic.Explosion' failed, no such sound script entry
+PrecacheScriptSound 'NPC_CombineBall_Episodic.WhizFlyby' failed, no such sound script entry
+PrecacheScriptSound 'NPC_CombineBall_Episodic.Impact' failed, no such sound script entry
+Failed to load models/weapons/v_portalgun.mdl!
+weapons\w_portalgun.mdl : material "models/weapons/w_models/portalgun/w_portalgun" not found.
+weapons\w_portalgun.mdl : material "w_portalgun" not found.
+material "sprites/grav_beam" not found.
+Unable to load sprite material materials/sprites/grav_beam.vmt!
+material "sprites/grav_beam_noz" not found.
+Unable to load sprite material materials/sprites/grav_beam_noz.vmt!
+PrecacheScriptSound 'Weapon_Alyx_Gun.Empty' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Single' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.NPC_Single' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Burst' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Reload' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.NPC_Reload' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Special1' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Special2' failed, no such sound script entry
+Failed to load models/player/chell.mdl!
+A custom HDR cubemap "materials/engine/eye-reflection-cubemap-.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+Failed to load models/props_debris/concrete_chunk10a.mdl!
+prop_physics at 1180 -240 70 uses model models/props_debris/concrete_chunk10a.mdl, which has no propdata which means it must be used on a prop_static. DELETED.
+prop_physics at -300 178 0 uses model models/props_lab/hev_case.mdl, which has no propdata which means it must be used on a prop_static. DELETED.
+prop_dynamic at 1110 -150 150 uses model models/props_debris/concrete_chunk05g.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 1300 160 210 uses model models/props_debris/concrete_chunk08a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 1120 190 100 uses model models/props_junk/wood_crate001a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 1320 -170 170 uses model models/props_junk/wood_crate002a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+point_spotlight (point_spotlight) has an invalid spotlight width 120.0 (max 102.3).
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+SV_ActivateServer: setting tickrate to 66.7
+Created class baseline: 14 classes, 3717 bytes.
+Game started
+Missing CD Key from registry, inserting blank key
+
+Half-Life 2
+Map: sl_cold_open
+Players: 1 / 1
+Build: 9912070
+Server Number: 1
+
+Attemped to precache unknown particle system "portal_1_projectile_stream"!
+Attemped to precache unknown particle system "portal_1_projectile_stream_pedestal"!
+Attemped to precache unknown particle system "portal_2_projectile_stream"!
+Attemped to precache unknown particle system "portal_2_projectile_stream_pedestal"!
+Attemped to precache unknown particle system "portal_1_charge"!
+Attemped to precache unknown particle system "portal_2_charge"!
+Attemped to precache unknown particle system "train_steam"!
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/sl_cold_open.txt.
+material "effects/eball_infinite_life" not found.
+material "effects/eball_finite_life" not found.
+material "engine/writez_model" not found.
+material "engine/translucentvertexcolor" not found.
+material "models/portals/portal_1_dynamicmesh" not found.
+material "models/portals/portal_2_dynamicmesh" not found.
+material "models/portals/portal_1_renderfix_dynamicmesh" not found.
+material "models/portals/portal_2_renderfix_dynamicmesh" not found.
+material "models/portals/portal_depthdoubler" not found.
+material "models/portals/portalstaticoverlay_1" not found.
+material "models/portals/portalstaticoverlay_2" not found.
+material "models/portals/portal_stencil_hole" not found.
+material "models/portals/portal_refract_1" not found.
+material "models/portals/portal_refract_2" not found.
+material "sprites/grav_flare" not found.
+material "sprites/grav_light" not found.
+material "sprites/bluelight" not found.
+material "sprites/orangelight" not found.
+material "sprites/portalgun_effects" not found.
+Sending full update to Client HyperArts
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 51.904 KB, outgoing 890 bytes
+Queued Material System: ENABLED!
+Compact freed 282624 bytes
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+CreateEvent: event 'portal_player_touchedground' not registered.
+Attempting to create unknown particle system 'train_steam' 
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 11.641 msec!
+Failed to load sound "weapons\portalgun\portalgun_powerup1.wav", file probably missing from disk/repository
+Failed to load sound "weapons\portalgun\portalgun_powerup1.wav", file probably missing from disk/repository
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+noclip ON
+CreateEvent: event 'portal_player_touchedground' not registered.
+Unknown command: headtrack_reset_home_pos
+Unknown command: headtrack_reset_home_pos
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+noclip OFF
+CreateEvent: event 'portal_player_touchedground' not registered.
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+Attemped to precache unknown particle system "portal_1_particles"!
+Attemped to precache unknown particle system "portal_2_particles"!
+Attemped to precache unknown particle system "portal_1_edge"!
+Attemped to precache unknown particle system "portal_2_edge"!
+Attemped to precache unknown particle system "portal_1_nofit"!
+Attemped to precache unknown particle system "portal_2_nofit"!
+Attemped to precache unknown particle system "portal_1_overlap"!
+Attemped to precache unknown particle system "portal_2_overlap"!
+Attemped to precache unknown particle system "portal_1_badvolume"!
+Attemped to precache unknown particle system "portal_2_badvolume"!
+Attemped to precache unknown particle system "portal_1_badsurface"!
+Attemped to precache unknown particle system "portal_2_badsurface"!
+Attemped to precache unknown particle system "portal_1_close"!
+Attemped to precache unknown particle system "portal_2_close"!
+Attemped to precache unknown particle system "portal_1_cleanser"!
+Attemped to precache unknown particle system "portal_2_cleanser"!
+Attemped to precache unknown particle system "portal_1_near"!
+Attemped to precache unknown particle system "portal_2_near"!
+Attemped to precache unknown particle system "portal_1_success"!
+Attemped to precache unknown particle system "portal_2_success"!
+Failed to load sound "weapons\portalgun\portalgun_shoot_blue1.wav", file probably missing from disk/repository
+Attempting to create unknown particle system 'portal_1_projectile_stream' 
+Model 'models/portals/portal1.mdl' doesn't have attachment 'particles_2' to attach particle system 'portal_1_particles' to.
+Model 'models/portals/portal1.mdl' doesn't have attachment 'particlespin' to attach particle system 'portal_1_edge' to.
+Failed to load sound "weapons\portalgun\portal_ambient_loop1.wav", file probably missing from disk/repository
+Failed to load sound "weapons\portalgun\portal_open1.wav", file probably missing from disk/repository
+Failed to load sound "weapons\portalgun\portal_ambient_loop1.wav", file probably missing from disk/repository
+Attempted to create unknown particle system type "portal_1_success"!
+Failed to load sound "weapons\portalgun\portal_ambient_loop1.wav", file probably missing from disk/repository
+Failed to load sound "weapons\portalgun\portal_ambient_loop1.wav", file probably missing from disk/repository
+Failed to load sound "weapons\portalgun\portal_ambient_loop1.wav", file probably missing from disk/repository
+Failed to load sound "weapons\portalgun\portal_ambient_loop1.wav", file probably missing from disk/repository
+Failed to load sound "weapons\portalgun\portal_ambient_loop1.wav", file probably missing from disk/repository
+Failed to load sound "weapons\portalgun\portal_ambient_loop1.wav", file probably missing from disk/repository
+CreateEvent: event 'portal_player_touchedground' not registered.
+Failed to load sound "weapons\portalgun\portalgun_shoot_blue1.wav", file probably missing from disk/repository
+Attempting to create unknown particle system 'portal_1_projectile_stream' 
+Model 'models/portals/portal1.mdl' doesn't have attachment 'particles_2' to attach particle system 'portal_1_particles' to.
+Model 'models/portals/portal1.mdl' doesn't have attachment 'particlespin' to attach particle system 'portal_1_edge' to.
+Failed to load sound "weapons\portalgun\portal_close1.wav", file probably missing from disk/repository
+Failed to load sound "weapons\portalgun\portal_open1.wav", file probably missing from disk/repository
+Attempted to create unknown particle system type "portal_1_success"!
+Attempted to create unknown particle system type "portal_1_close"!
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+noclip ON
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+Unknown command: headtrack_reset_home_pos
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+CreateEvent: event 'portal_player_touchedground' not registered.
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Unknown command: headtrack_reset_home_pos
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+noclip OFF
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+Unknown command: headtrack_reset_home_pos
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+CreateEvent: event 'portal_player_touchedground' not registered.
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+Unknown command: headtrack_reset_home_pos
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 8 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+CreateEvent: event 'portal_player_touchedground' not registered.
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+weapon_wrench[52]: Playing sequence 1 but there's only 1 in total?
+Queued Material System: DISABLED!
+Dropped HyperArts from server (Server shutting down)
+[Cloud]: SUCCEESS saving cfg/config.cfg in remote storage
+[Cloud]: SUCCEESS saving materials/vgui/logos/spray.vtf in remote storage
+[Cloud]: SUCCEESS saving materials/vgui/logos/spray.vmt in remote storage
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+CSoundEmitterSystem:  Registered 5239 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (217 rules, 214 criteria, and 208 responses)
+Particles: Missing 'particles/portalgun.pcf'
+Particles: Missing 'particles/portal_projectile.pcf'
+Particles: Missing 'particles/portals.pcf'
+Particles: Missing 'particles/cleansers.pcf'
+Particles: Missing 'particles/tubes.pcf'
+Particles: Missing 'particles/environment.pcf'
+Particles: Missing 'particles/glados.pcf'
+Particles: Missing 'particles/neurotoxins.pcf'
+Particles: Missing 'particles/finale_fx.pcf'
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: Z:\home\hyper\.steam\debian-installation\steamapps\common\Half-Life 2\platform\config
+Parsed 26 text messages
+CClientSteamContext logged on = 1
+Particles: Missing 'particles/portalgun.pcf'
+Particles: Missing 'particles/portal_projectile.pcf'
+Particles: Missing 'particles/portals.pcf'
+Particles: Missing 'particles/cleansers.pcf'
+Particles: Missing 'particles/tubes.pcf'
+Particles: Missing 'particles/environment.pcf'
+Particles: Missing 'particles/glados.pcf'
+Particles: Missing 'particles/neurotoxins.pcf'
+Particles: Missing 'particles/finale_fx.pcf'
+Couldn't parse script sequence 'SuitAuxPowerNoItemsActive': expected <anim command>, found '[!$DECK]'
+Hud element 'CHudPortalCrosshair' doesn't have an entry 'HudPortalCrosshair' in scripts/HudLayout.res
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+Hud element 'CHudLocator' doesn't have an entry 'HudLocator' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+Couldn't parse script sequence 'SuitAuxPowerNoItemsActive': expected <anim command>, found '[!$DECK]'
+ModSettingsPanel has been constructed
+[Cloud]: SUCCEESS retrieved cfg/config.cfg from remote storage into cfg/config.cfg
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+[Cloud]: SUCCEESS retrieved materials/vgui/logos/spray.vtf from remote storage into materials/vgui/logos/spray.vtf
+[Cloud]: SUCCEESS retrieved materials/vgui/logos/spray.vmt from remote storage into materials/vgui/logos/spray.vmt
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+24 CPUs, Frequency: 3.8 Ghz,  Features: AuthenticAMD SSE SSE2 MMX RDTSC CMOV FCMOV
+[CWorkshop] Querying for subscribed files...
+[CWorkshop] Subscribed item count: 0
+execing modsettings_default.cfg
+execing valve.rc
+execing autoexec.cfg
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: sl_cold_open
+env_cubemap used on world geometry without rebuilding map. . ignoring: metal/metalwall002a
+env_cubemap used on world geometry without rebuilding map. . ignoring: concrete/concretefloor005a
+env_cubemap used on world geometry without rebuilding map. . ignoring: metal/metalcombine001
+env_cubemap used on world geometry without rebuilding map. . ignoring: metal/metalwall001a
+execing skill_manifest.cfg
+execing skill.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Failed to load models/portals/portal1.mdl!
+Failed to load models/portals/portal2.mdl!
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 1
+Done version checks
+Finishing load
+PrecacheScriptSound 'NPC_CombineBall_Episodic.Explosion' failed, no such sound script entry
+PrecacheScriptSound 'NPC_CombineBall_Episodic.WhizFlyby' failed, no such sound script entry
+PrecacheScriptSound 'NPC_CombineBall_Episodic.Impact' failed, no such sound script entry
+Failed to load models/weapons/v_portalgun.mdl!
+weapons\w_portalgun.mdl : material "models/weapons/w_models/portalgun/w_portalgun" not found.
+weapons\w_portalgun.mdl : material "w_portalgun" not found.
+material "sprites/grav_beam" not found.
+Unable to load sprite material materials/sprites/grav_beam.vmt!
+material "sprites/grav_beam_noz" not found.
+Unable to load sprite material materials/sprites/grav_beam_noz.vmt!
+PrecacheScriptSound 'Weapon_Alyx_Gun.Empty' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Single' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.NPC_Single' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Burst' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Reload' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.NPC_Reload' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Special1' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Special2' failed, no such sound script entry
+Failed to load models/player/chell.mdl!
+A custom HDR cubemap "materials/engine/eye-reflection-cubemap-.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+Failed to load models/props_debris/concrete_chunk10a.mdl!
+prop_physics at 1180 -240 70 uses model models/props_debris/concrete_chunk10a.mdl, which has no propdata which means it must be used on a prop_static. DELETED.
+prop_physics at -300 178 0 uses model models/props_lab/hev_case.mdl, which has no propdata which means it must be used on a prop_static. DELETED.
+prop_dynamic at 1110 -150 150 uses model models/props_debris/concrete_chunk05g.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 1300 160 210 uses model models/props_debris/concrete_chunk08a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 1120 190 100 uses model models/props_junk/wood_crate001a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 1320 -170 170 uses model models/props_junk/wood_crate002a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+point_spotlight (point_spotlight) has an invalid spotlight width 120.0 (max 102.3).
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+SV_ActivateServer: setting tickrate to 66.7
+Created class baseline: 14 classes, 3717 bytes.
+Game started
+
+Half-Life 2
+Map: sl_cold_open
+Players: 1 / 1
+Build: 9912070
+Server Number: 1
+
+Attemped to precache unknown particle system "portal_1_projectile_stream"!
+Attemped to precache unknown particle system "portal_1_projectile_stream_pedestal"!
+Attemped to precache unknown particle system "portal_2_projectile_stream"!
+Attemped to precache unknown particle system "portal_2_projectile_stream_pedestal"!
+Attemped to precache unknown particle system "portal_1_charge"!
+Attemped to precache unknown particle system "portal_2_charge"!
+Attemped to precache unknown particle system "train_steam"!
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/sl_cold_open.txt.
+material "effects/eball_infinite_life" not found.
+material "effects/eball_finite_life" not found.
+material "engine/writez_model" not found.
+material "engine/translucentvertexcolor" not found.
+material "models/portals/portal_1_dynamicmesh" not found.
+material "models/portals/portal_2_dynamicmesh" not found.
+material "models/portals/portal_1_renderfix_dynamicmesh" not found.
+material "models/portals/portal_2_renderfix_dynamicmesh" not found.
+material "models/portals/portal_depthdoubler" not found.
+material "models/portals/portalstaticoverlay_1" not found.
+material "models/portals/portalstaticoverlay_2" not found.
+material "models/portals/portal_stencil_hole" not found.
+material "models/portals/portal_refract_1" not found.
+material "models/portals/portal_refract_2" not found.
+material "sprites/grav_flare" not found.
+material "sprites/grav_light" not found.
+material "sprites/bluelight" not found.
+material "sprites/orangelight" not found.
+material "sprites/portalgun_effects" not found.
+Sending full update to Client HyperArts
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 51.904 KB, outgoing 890 bytes
+Queued Material System: ENABLED!
+Compact freed 258048 bytes
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+CreateEvent: event 'portal_player_touchedground' not registered.
+Attempting to create unknown particle system 'train_steam' 
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 4.876 msec!
+ConVarRef hud_aspect doesn't point to an existing ConVar
+ConVarRef m_autoaim_mode doesn't point to an existing ConVar
+ConVarRef sc_autoaim_mode doesn't point to an existing ConVar
+ConVarRef hud_weaponui_gamepad doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+Unknown command: headtrack_reset_home_pos
+VR Mode is not enabled.
+CreateEvent: event 'portal_player_touchedground' not registered.
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef m_autoaim_mode doesn't point to an existing ConVar
+ConVarRef sc_autoaim_mode doesn't point to an existing ConVar
+ConVarRef hud_weaponui_gamepad doesn't point to an existing ConVar
+'userconfig.cfg' not present; not executing.
+[Cloud]: SUCCEESS saving cfg/config.cfg in remote storage
+[Cloud]: SUCCEESS saving materials/vgui/logos/spray.vtf in remote storage
+[Cloud]: SUCCEESS saving materials/vgui/logos/spray.vmt in remote storage
+Host_WriteConfiguration: Wrote cfg/config.cfg
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef hud_aspect doesn't point to an existing ConVar
+ConVarRef m_autoaim_mode doesn't point to an existing ConVar
+ConVarRef sc_autoaim_mode doesn't point to an existing ConVar
+ConVarRef hud_weaponui_gamepad doesn't point to an existing ConVar
+ConVarRef m_autoaim_mode doesn't point to an existing ConVar
+ConVarRef sc_autoaim_mode doesn't point to an existing ConVar
+ConVarRef hud_weaponui_gamepad doesn't point to an existing ConVar
+'userconfig.cfg' not present; not executing.
+[Cloud]: SUCCEESS saving cfg/config.cfg in remote storage
+[Cloud]: SUCCEESS saving materials/vgui/logos/spray.vtf in remote storage
+[Cloud]: SUCCEESS saving materials/vgui/logos/spray.vmt in remote storage
+Host_WriteConfiguration: Wrote cfg/config.cfg
+ConVarRef m_autoaim_mode doesn't point to an existing ConVar
+ConVarRef sc_autoaim_mode doesn't point to an existing ConVar
+ConVarRef hud_weaponui_gamepad doesn't point to an existing ConVar
+'userconfig.cfg' not present; not executing.
+[Cloud]: SUCCEESS saving cfg/config.cfg in remote storage
+[Cloud]: SUCCEESS saving materials/vgui/logos/spray.vtf in remote storage
+[Cloud]: SUCCEESS saving materials/vgui/logos/spray.vmt in remote storage
+Host_WriteConfiguration: Wrote cfg/config.cfg
+Queued Material System: DISABLED!
+Dropped HyperArts from server (Server shutting down)
+---- Host_NewGame ----
+Spawn Server: sl_cold_open
+execing skill_manifest.cfg
+execing skill.cfg
+Set Gravity 600.0 (0.250 tolerance)
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 1
+Done version checks
+Finishing load
+prop_physics at 1180 -240 70 uses model models/props_debris/concrete_chunk10a.mdl, which has no propdata which means it must be used on a prop_static. DELETED.
+prop_physics at -300 178 0 uses model models/props_lab/hev_case.mdl, which has no propdata which means it must be used on a prop_static. DELETED.
+prop_dynamic at 1110 -150 150 uses model models/props_debris/concrete_chunk05g.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 1300 160 210 uses model models/props_debris/concrete_chunk08a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 1120 190 100 uses model models/props_junk/wood_crate001a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 1320 -170 170 uses model models/props_junk/wood_crate002a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+point_spotlight (point_spotlight) has an invalid spotlight width 120.0 (max 102.3).
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+SV_ActivateServer: setting tickrate to 66.7
+Game started
+
+Half-Life 2
+Map: sl_cold_open
+Players: 1 / 1
+Build: 9912070
+Server Number: 2
+
+Attemped to precache unknown particle system "portal_1_projectile_stream"!
+Attemped to precache unknown particle system "portal_1_projectile_stream_pedestal"!
+Attemped to precache unknown particle system "portal_2_projectile_stream"!
+Attemped to precache unknown particle system "portal_2_projectile_stream_pedestal"!
+Attemped to precache unknown particle system "portal_1_charge"!
+Attemped to precache unknown particle system "portal_2_charge"!
+Attemped to precache unknown particle system "train_steam"!
+Initializing renderer...
+Sending full update to Client HyperArts
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 46.702 KB, outgoing 1.257 KB
+Queued Material System: ENABLED!
+Compact freed 1171456 bytes
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+CreateEvent: event 'portal_player_touchedground' not registered.
+Attempting to create unknown particle system 'train_steam' 
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 5.208 msec!
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+ConVarRef sc_controller_mode doesn't point to an existing ConVar
+ConVarRef sc_last_used_input doesn't point to an existing ConVar
+CSoundEmitterSystem:  Registered 5239 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (217 rules, 214 criteria, and 208 responses)
+Particles: Missing 'particles/portalgun.pcf'
+Particles: Missing 'particles/portal_projectile.pcf'
+Particles: Missing 'particles/portals.pcf'
+Particles: Missing 'particles/cleansers.pcf'
+Particles: Missing 'particles/tubes.pcf'
+Particles: Missing 'particles/environment.pcf'
+Particles: Missing 'particles/glados.pcf'
+Particles: Missing 'particles/neurotoxins.pcf'
+Particles: Missing 'particles/finale_fx.pcf'
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: Z:\home\hyper\.steam\debian-installation\steamapps\common\Half-Life 2\platform\config
+Parsed 26 text messages
+CClientSteamContext logged on = 1
+Particles: Missing 'particles/portalgun.pcf'
+Particles: Missing 'particles/portal_projectile.pcf'
+Particles: Missing 'particles/portals.pcf'
+Particles: Missing 'particles/cleansers.pcf'
+Particles: Missing 'particles/tubes.pcf'
+Particles: Missing 'particles/environment.pcf'
+Particles: Missing 'particles/glados.pcf'
+Particles: Missing 'particles/neurotoxins.pcf'
+Particles: Missing 'particles/finale_fx.pcf'
+Couldn't parse script sequence 'SuitAuxPowerNoItemsActive': expected <anim command>, found '[!$DECK]'
+Hud element 'CHudPortalCrosshair' doesn't have an entry 'HudPortalCrosshair' in scripts/HudLayout.res
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+Hud element 'CHudLocator' doesn't have an entry 'HudLocator' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+Couldn't parse script sequence 'SuitAuxPowerNoItemsActive': expected <anim command>, found '[!$DECK]'
+ModSettingsPanel has been constructed
+[Cloud]: SUCCEESS retrieved cfg/config.cfg from remote storage into cfg/config.cfg
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+[Cloud]: SUCCEESS retrieved materials/vgui/logos/spray.vtf from remote storage into materials/vgui/logos/spray.vtf
+[Cloud]: SUCCEESS retrieved materials/vgui/logos/spray.vmt from remote storage into materials/vgui/logos/spray.vmt
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+24 CPUs, Frequency: 3.8 Ghz,  Features: AuthenticAMD SSE SSE2 MMX RDTSC CMOV FCMOV
+[CWorkshop] Querying for subscribed files...
+[CWorkshop] Subscribed item count: 0
+execing modsettings_default.cfg
+execing valve.rc
+execing autoexec.cfg
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: background04
+execing skill_manifest.cfg
+execing skill.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Failed to load models/portals/portal1.mdl!
+Failed to load models/portals/portal2.mdl!
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2881
+Done version checks
+Finishing load
+PrecacheScriptSound 'NPC_CombineBall_Episodic.Explosion' failed, no such sound script entry
+PrecacheScriptSound 'NPC_CombineBall_Episodic.WhizFlyby' failed, no such sound script entry
+PrecacheScriptSound 'NPC_CombineBall_Episodic.Impact' failed, no such sound script entry
+Failed to load models/weapons/v_portalgun.mdl!
+weapons\w_portalgun.mdl : material "models/weapons/w_models/portalgun/w_portalgun" not found.
+weapons\w_portalgun.mdl : material "w_portalgun" not found.
+material "sprites/grav_beam" not found.
+Unable to load sprite material materials/sprites/grav_beam.vmt!
+material "sprites/grav_beam_noz" not found.
+Unable to load sprite material materials/sprites/grav_beam_noz.vmt!
+PrecacheScriptSound 'Weapon_Alyx_Gun.Empty' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Single' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.NPC_Single' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Burst' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Reload' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.NPC_Reload' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Special1' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Special2' failed, no such sound script entry
+Failed to load models/player/chell.mdl!
+A custom HDR cubemap "materials/engine/eye-reflection-cubemap-.hdr.vtf": cannot be found on disk.
+This really should have a HDR version, trying a fall back to a non-HDR version.
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+SV_ActivateServer: setting tickrate to 66.7
+Created class baseline: 19 classes, 4111 bytes.
+Game started
+
+Half-Life 2
+Map: background04
+Players: 1 / 1
+Build: 9912070
+Server Number: 1
+
+Attemped to precache unknown particle system "portal_1_projectile_stream"!
+Attemped to precache unknown particle system "portal_1_projectile_stream_pedestal"!
+Attemped to precache unknown particle system "portal_2_projectile_stream"!
+Attemped to precache unknown particle system "portal_2_projectile_stream_pedestal"!
+Attemped to precache unknown particle system "portal_1_charge"!
+Attemped to precache unknown particle system "portal_2_charge"!
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/background04.txt.
+material "effects/eball_infinite_life" not found.
+material "effects/eball_finite_life" not found.
+material "engine/writez_model" not found.
+material "engine/translucentvertexcolor" not found.
+material "models/portals/portal_1_dynamicmesh" not found.
+material "models/portals/portal_2_dynamicmesh" not found.
+material "models/portals/portal_1_renderfix_dynamicmesh" not found.
+material "models/portals/portal_2_renderfix_dynamicmesh" not found.
+material "models/portals/portal_depthdoubler" not found.
+material "models/portals/portalstaticoverlay_1" not found.
+material "models/portals/portalstaticoverlay_2" not found.
+material "models/portals/portal_stencil_hole" not found.
+material "models/portals/portal_refract_1" not found.
+material "models/portals/portal_refract_2" not found.
+material "sprites/grav_flare" not found.
+material "sprites/grav_light" not found.
+material "sprites/bluelight" not found.
+material "sprites/orangelight" not found.
+material "sprites/portalgun_effects" not found.
+Sending full update to Client HyperArts
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 53.380 KB, outgoing 890 bytes
+Compact freed 507904 bytes
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+CreateEvent: event 'portal_player_touchedground' not registered.
+Soundscape: coast.generic_ambient_01
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 19.728 msec!
+ 0:Stopped sound npc\crow\flap2.wav
+ 1:Stopped sound npc\crow\flap2.wav
+ 2:Stopped sound npc\crow\flap2.wav
+Dropped HyperArts from server (Disconnect by user.)
+---- Host_NewGame ----
+Spawn Server: sl_cold_open
+env_cubemap used on world geometry without rebuilding map. . ignoring: metal/metalwall002a
+env_cubemap used on world geometry without rebuilding map. . ignoring: concrete/concretefloor005a
+env_cubemap used on world geometry without rebuilding map. . ignoring: metal/metalcombine001
+env_cubemap used on world geometry without rebuilding map. . ignoring: metal/metalwall001a
+execing skill_manifest.cfg
+execing skill.cfg
+Set Gravity 600.0 (0.250 tolerance)
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 1
+Done version checks
+Finishing load
+Failed to load models/props_debris/concrete_chunk10a.mdl!
+prop_physics at 1180 -240 70 uses model models/props_debris/concrete_chunk10a.mdl, which has no propdata which means it must be used on a prop_static. DELETED.
+prop_physics at -300 178 0 uses model models/props_lab/hev_case.mdl, which has no propdata which means it must be used on a prop_static. DELETED.
+prop_dynamic at 1110 -150 150 uses model models/props_debris/concrete_chunk05g.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 1300 160 210 uses model models/props_debris/concrete_chunk08a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 1120 190 100 uses model models/props_junk/wood_crate001a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 1320 -170 170 uses model models/props_junk/wood_crate002a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+point_spotlight (point_spotlight) has an invalid spotlight width 120.0 (max 102.3).
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+SV_ActivateServer: setting tickrate to 66.7
+Created class baseline: 14 classes, 3717 bytes.
+Game started
+
+Half-Life 2
+Map: sl_cold_open
+Players: 1 / 1
+Build: 9912070
+Server Number: 2
+
+Attemped to precache unknown particle system "portal_1_projectile_stream"!
+Attemped to precache unknown particle system "portal_1_projectile_stream_pedestal"!
+Attemped to precache unknown particle system "portal_2_projectile_stream"!
+Attemped to precache unknown particle system "portal_2_projectile_stream_pedestal"!
+Attemped to precache unknown particle system "portal_1_charge"!
+Attemped to precache unknown particle system "portal_2_charge"!
+Attemped to precache unknown particle system "train_steam"!
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/sl_cold_open.txt.
+Sending full update to Client HyperArts
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 50.450 KB, outgoing 1.345 KB
+Queued Material System: ENABLED!
+Compact freed 1052672 bytes
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+Failed to load sound "player\fling_whoosh.wav", file probably missing from disk/repository
+CreateEvent: event 'portal_player_touchedground' not registered.
+Attempting to create unknown particle system 'train_steam' 
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 5.426 msec!
+Queued Material System: DISABLED!
+Dropped HyperArts from server (Server shutting down)
+[Cloud]: SUCCEESS saving cfg/config.cfg in remote storage
+[Cloud]: SUCCEESS saving materials/vgui/logos/spray.vtf in remote storage
+[Cloud]: SUCCEESS saving materials/vgui/logos/spray.vmt in remote storage
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
