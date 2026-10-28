@@ -313,6 +313,15 @@
 		"tall"	 "480"
 	}
 
+	HudPortalCrosshair
+	{
+		"fieldName" "HudViewfinder"
+		"visible" "1"
+		"enabled" "1"
+		"wide"	 "640"
+		"tall"	 "480"
+	}
+
 	HudDeathNotice
 	{
 		"fieldName" "HudDeathNotice"

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/v_portalgun/portalgun"
+	"$surfaceprop" "metal"
+	"$phong" "1"
+	"$phongexponent" "18"
+	"$phongboost" "0.7"
+	"$phongfresnelranges" "[0.2 0.5 1]"
+}

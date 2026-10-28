@@ -36,11 +36,13 @@
 			gamebin				|all_source_engine_paths|hl2/bin
 			game				|all_source_engine_paths|hl2
 
-			// Portal content (portal gun viewmodel, sounds, materials)
-			game+mod			|all_source_engine_paths|../Portal/portal/custom/*
-			game				|all_source_engine_paths|../Portal/portal/portal_sound_vo_english.vpk
-			game				|all_source_engine_paths|../Portal/portal/portal_pak.vpk
-			game				|all_source_engine_paths|../Portal/portal
+			// Portal content (portal gun, portals, particles, sounds, HUD).
+			// This engine reads the Portal 1 particle format (pcf 1) and VTF 7.0;
+			// Portal 2's pcf 2/newer VTF files fail to load ("UtlBuffer is the wrong
+			// type"), so mount Portal 1. It lives in a different Steam library than
+			// this mod, so the path is absolute. Update it if the game is moved.
+			game+mod			"/media/hyper/Storage HDD/SteamLibrary/steamapps/common/Portal/portal/portal_pak.vpk"
+			game				"/media/hyper/Storage HDD/SteamLibrary/steamapps/common/Portal/portal"
 
 			platform			|all_source_engine_paths|platform
 		}

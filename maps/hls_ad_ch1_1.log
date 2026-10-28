@@ -1,0 +1,300 @@
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: Z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\HLShattered\materials
+Loading Z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\HLShattered\maps/HLS_AD_CH1_1.vmf
+ConVarRef mat_specular_scalar doesn't point to an existing ConVar
+Could not locate 'GameData' key in z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 54 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing Z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\HLShattered\maps/HLS_AD_CH1_1.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (59810 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 66 texinfos to 51
+Reduced 22 texdatas to 18 (683 bytes to 601)
+Writing Z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\HLShattered\maps/HLS_AD_CH1_1.bsp
+1 second elapsed
+
+
+
+24 threads
+reading z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\maps\HLS_AD_CH1_1.bsp
+reading z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\maps\HLS_AD_CH1_1.prt
+  72 portalclusters
+ 127 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 5184
+Average clusters visible: 72
+Building PAS...
+Average clusters audible: 72
+visdatasize:1876  compressed from 2304
+writing z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\maps\HLS_AD_CH1_1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\maps\HLS_AD_CH1_1.bsp
+1199 faces
+3379290 square feet [486617856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1199 patches before subdivision
+34943 patches after subdivision
+2256 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2049855, max 383
+transfer lists:  15.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1331336, 1106548, 849145)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(264125, 186601, 129115)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(72231, 42060, 26229)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(22193, 10434, 5971)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(7384, 2693, 1409)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2667, 710, 341)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1052, 189, 83)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(467, 51, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(229, 14, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(125, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(72, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(44, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(27, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(17, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0108 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 2227 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  33/2048         1584/98304    ( 1.6%) 
+brushes                152/16384        1824/196608   ( 0.9%) 
+brushsides             912/65536        7296/524288   ( 1.4%) 
+planes                 782/65536       15640/1310720  ( 1.2%) 
+vertexes              1772/65536       21264/786432   ( 2.7%) 
+nodes                  477/65536       15264/2097152  ( 0.7%) 
+texinfos                51/16384        3672/1179648  ( 0.3%) 
+texdata                 18/8096          576/259072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1199/65536       67144/3670016  ( 1.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              659/65536       36904/3670016  ( 1.0%) 
+leaves                 511/65536       16352/2097152  ( 0.8%) 
+leaffaces             1426/65536        2852/131072   ( 2.2%) 
+leafbrushes            383/65536         766/131072   ( 0.6%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8069/512000      32276/2048000  ( 1.6%) 
+edges                 4608/256000      18432/1024000  ( 1.8%) 
+LDR worldlights       2256/8192       198528/720896   (27.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            108/32768        1080/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1653/65536        3306/131072   ( 2.5%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1830228/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1876/16777216 ( 0.0%) 
+entdata               [variable]       26688/393216   ( 6.8%) 
+LDR ambient table      511/65536        2044/262144   ( 0.8%) 
+HDR ambient table      511/65536        2044/262144   ( 0.8%) 
+LDR leaf ambient      2388/65536       66864/1835008  ( 3.6%) 
+HDR leaf ambient       511/65536       14308/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      262464/0        ( 0.0%) 
+physics               [variable]       59810/4194304  ( 1.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3035
+Writing z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\maps\HLS_AD_CH1_1.bsp
+18 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: Z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\HLShattered\materials
+Loading Z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\HLShattered\maps/HLS_AD_CH1_1.vmf
+ConVarRef mat_specular_scalar doesn't point to an existing ConVar
+Could not locate 'GameData' key in z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 54 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing Z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\HLShattered\maps/HLS_AD_CH1_1.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (59794 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 66 texinfos to 51
+Reduced 22 texdatas to 18 (683 bytes to 601)
+Writing Z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\HLShattered\maps/HLS_AD_CH1_1.bsp
+1 second elapsed
+
+
+
+24 threads
+reading z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\maps\HLS_AD_CH1_1.bsp
+reading z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\maps\HLS_AD_CH1_1.prt
+  72 portalclusters
+ 127 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 5184
+Average clusters visible: 72
+Building PAS...
+Average clusters audible: 72
+visdatasize:1876  compressed from 2304
+writing z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\maps\HLS_AD_CH1_1.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\maps\HLS_AD_CH1_1.bsp
+1206 faces
+3396009 square feet [489025408.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1206 patches before subdivision
+35972 patches after subdivision
+2256 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2175495, max 385
+transfer lists:  16.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1624021, 1380513, 1047290)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(288232, 207379, 143170)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(75288, 44536, 27744)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(22594, 10735, 6140)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(7435, 2729, 1427)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2674, 714, 343)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1053, 189, 84)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(467, 51, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(229, 14, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(125, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(72, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(44, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(27, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(17, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0116 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 2227 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  33/2048         1584/98304    ( 1.6%) 
+brushes                152/16384        1824/196608   ( 0.9%) 
+brushsides             912/65536        7296/524288   ( 1.4%) 
+planes                 784/65536       15680/1310720  ( 1.2%) 
+vertexes              1789/65536       21468/786432   ( 2.7%) 
+nodes                  477/65536       15264/2097152  ( 0.7%) 
+texinfos                51/16384        3672/1179648  ( 0.3%) 
+texdata                 18/8096          576/259072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1206/65536       67536/3670016  ( 1.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              658/65536       36848/3670016  ( 1.0%) 
+leaves                 511/65536       16352/2097152  ( 0.8%) 
+leaffaces             1442/65536        2884/131072   ( 2.2%) 
+leafbrushes            385/65536         770/131072   ( 0.6%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8098/512000      32392/2048000  ( 1.6%) 
+edges                 4632/256000      18528/1024000  ( 1.8%) 
+LDR worldlights       2256/8192       198528/720896   (27.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            105/32768        1050/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1620/65536        3240/131072   ( 2.5%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2020080/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        1876/16777216 ( 0.0%) 
+entdata               [variable]       26688/393216   ( 6.8%) 
+LDR ambient table      511/65536        2044/262144   ( 0.8%) 
+HDR ambient table      511/65536        2044/262144   ( 0.8%) 
+LDR leaf ambient      2388/65536       66864/1835008  ( 3.6%) 
+HDR leaf ambient       511/65536       14308/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      262464/0        ( 0.0%) 
+physics               [variable]       59794/4194304  ( 1.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3054
+Writing z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\maps\HLS_AD_CH1_1.bsp
+20 seconds elapsed
