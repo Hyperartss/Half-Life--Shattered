@@ -1,7 +1,7 @@
 "GameInfo"
 {
-	game		"Shattered Life"
-	title		"SHATTERED LIFE"
+	game		"Half-Life: Shattered"
+	title		"Half-Life: Shattered"
 	type		singleplayer_only
 	hasportals	1
 	supportsvr	1

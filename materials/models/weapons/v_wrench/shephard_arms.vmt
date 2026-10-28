@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/weapons/v_wrench/shephard_arms"
+	"$surfaceprop"	"flesh"
+	"$halflambert"	"1"
+}

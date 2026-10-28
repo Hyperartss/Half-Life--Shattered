@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/weapons/v_deagle/deagle_grip"
+	"$surfaceprop"	"metal"
+	"$envmap"	"env_cubemap"
+	"$envmaptint"	"[.03 .03 .03]"
+}
