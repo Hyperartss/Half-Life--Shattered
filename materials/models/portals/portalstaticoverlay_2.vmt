@@ -1,0 +1,45 @@
+// Shattered Life - muted orange portal rim (older Aperture prototype look).
+// Same as Portal's models/portals/portalstaticoverlay_2.vmt, except:
+//   * $PortalColorTexture points at a desaturated copy of the colour ramp
+//     (portal-orange-color-muted: 60% of the original chroma, mixed toward luma),
+//     so the ring reads dusty amber instead of hot orange;
+//   * $PortalColorScale drops from 4.0 to 1.25, so the rim no longer clips to
+//     white.
+// The portal *hole* (portal_refract_2, portal_2_dynamicmesh) is untouched; this
+// only changes the ring. Delete this file for stock brightness/saturation.
+// The pre-DirectX-9 block is left at the stock ramp: it never runs on this
+// engine, which uses the ps20b PortalStaticOverlay shader.
+"PortalRefract"
+{
+	"$Stage" "2"
+	"$PortalOpenAmount" "0.0"
+	"$PortalStatic" "0.0"
+
+	"$PortalMaskTexture" "models/portals/noise-blur-256x256"
+	"$PortalColorTexture" "models/portals/portal-orange-color-muted"
+	"$PortalColorScale" "1.25"
+
+	"<DX90"
+	{
+		"$PortalMaskTexture" "models/portals/portal-mask-dx8"
+		"$PortalColorTexture" "models/portals/portal-orange-color-dx8"
+		"$PortalColorScale" "1.25"
+	}
+
+	"$time" "0.0"
+	"Proxies"
+	{
+		"CurrentTime"
+		{
+			"resultVar" "$time"
+		}
+		"PortalOpenAmount"
+		{
+			"resultVar" "$PortalOpenAmount"
+		}
+		"PortalStatic"
+		{
+			"resultVar" "$PortalStatic"
+		}
+	}
+}

@@ -64,3 +64,197 @@ loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered
 loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\server.dll (pid 296)
 loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\client.dll (pid 292)
 loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\server.dll (pid 292)
+loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\client.dll (pid 296)
+loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\server.dll (pid 296)
+loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\client.dll (pid 292)
+loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\server.dll (pid 292)
+---- exception 0xC0000005 at client.dll+0x1B0AD5 (tid 296)
+  access READ address 0x99AD2FF8
+  eax=A43FFFFE ebx=08AD3000 ecx=00000030 edx=26CBDAC8 esi=00000001 edi=0007FF00 ebp=0072AFB0 esp=0072AF6C
+  #0 client.dll+0x1ADA6D
+  #1 client.dll+0x2AE53
+  #2 client.dll+0x488A1
+  #3 client.dll+0x2CDC8
+  #4 client.dll+0x25E4D
+  #5 client.dll+0x29DBC
+  #6 client.dll+0x2CE8A
+  #7 client.dll+0x2B276
+  #8 client.dll+0x2B2A7
+  #9 client.dll+0x17FBED
+  #10 client.dll+0x182190
+  #11 client.dll+0x18108B
+  #12 client.dll+0x181791
+  #13 client.dll+0x286BAC
+  #14 client.dll+0x288320
+  #15 client.dll+0x91A7C
+  #16 client.dll+0x91CB3
+  #17 client.dll+0x9206A
+  #18 engine.dll+0xC6C03
+  #19 engine.dll+0x12A89A
+  #20 engine.dll+0x1C6D4B
+  #21 engine.dll+0x1C669F
+  #22 engine.dll+0x1C467C
+  #23 engine.dll+0x1D4564
+  #24 engine.dll+0x1D3A90
+  #25 engine.dll+0x1D3BD4
+  #26 engine.dll+0x2250D6
+  #27 engine.dll+0x223A67
+  stack[1] hl2.exe+0xFFC00000
+  stack[2] hl2.exe+0xFFC00000
+  stack[3] hl2.exe+0xFFC00000
+  stack[18] client.dll+0x1ADA6D
+  stack[28] client.dll+0x2AE53
+  stack[35] hl2.exe+0xFFC00000
+  stack[42] hl2.exe+0xFFC00000
+  stack[43] hl2.exe+0xFFC00000
+  stack[44] hl2.exe+0xFFC00000
+  stack[60] hl2.exe+0xFFC00000
+  stack[64] hl2.exe+0xFFC00000
+  stack[65] hl2.exe+0xFFC00000
+  stack[78] vphysics.dll+0x8C09A
+  stack[95] hl2.exe+0xFFC00000
+---- exception 0xC0000005 at client.dll+0x1B0AD5 (tid 296)
+  access READ address 0x99AD2FF8
+  eax=A43FFFFE ebx=08AD3000 ecx=00000030 edx=26CBDAC8 esi=00000001 edi=0007FF00 ebp=0072AFB0 esp=0072AF6C
+  #0 client.dll+0x1ADA6D
+  #1 client.dll+0x2AE53
+  #2 client.dll+0x488A1
+  #3 client.dll+0x2CDC8
+  #4 client.dll+0x25E4D
+  #5 client.dll+0x29DBC
+  #6 client.dll+0x2CE8A
+  #7 client.dll+0x2B276
+  #8 client.dll+0x2B2A7
+  #9 client.dll+0x17FBED
+  #10 client.dll+0x182190
+  #11 client.dll+0x18108B
+  #12 client.dll+0x181791
+  #13 client.dll+0x286BAC
+  #14 client.dll+0x288320
+  #15 client.dll+0x91A7C
+  #16 client.dll+0x91CB3
+  #17 client.dll+0x9206A
+  #18 engine.dll+0xC6C03
+  #19 engine.dll+0x12A89A
+  #20 engine.dll+0x1C6D4B
+  #21 engine.dll+0x1C669F
+  #22 engine.dll+0x1C467C
+  #23 engine.dll+0x1D4564
+  #24 engine.dll+0x1D3A90
+  #25 engine.dll+0x1D3BD4
+  #26 engine.dll+0x2250D6
+  #27 engine.dll+0x223A67
+  stack[1] hl2.exe+0xFFC00000
+  stack[2] hl2.exe+0xFFC00000
+  stack[3] hl2.exe+0xFFC00000
+  stack[18] client.dll+0x1ADA6D
+  stack[28] client.dll+0x2AE53
+  stack[35] hl2.exe+0xFFC00000
+  stack[42] hl2.exe+0xFFC00000
+  stack[43] hl2.exe+0xFFC00000
+  stack[44] hl2.exe+0xFFC00000
+  stack[60] hl2.exe+0xFFC00000
+  stack[64] hl2.exe+0xFFC00000
+  stack[65] hl2.exe+0xFFC00000
+  stack[78] vphysics.dll+0x8C09A
+  stack[95] hl2.exe+0xFFC00000
+loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\client.dll (pid 296)
+loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\server.dll (pid 296)
+---- exception 0xC0000005 at client.dll+0x1B0AD5 (tid 300)
+  access READ address 0x99AD2FF8
+  eax=A43FFFFE ebx=08AD3000 ecx=00000030 edx=26CBDAC8 esi=00000001 edi=0007FF00 ebp=0072AFB0 esp=0072AF6C
+  #0 client.dll+0x1ADA6D
+  #1 client.dll+0x2AE53
+  #2 client.dll+0x488A1
+  #3 client.dll+0x2CDC8
+  #4 client.dll+0x25E4D
+  #5 client.dll+0x29DBC
+  #6 client.dll+0x2CE8A
+  #7 client.dll+0x2B276
+  #8 client.dll+0x2B2A7
+  #9 client.dll+0x17FBED
+  #10 client.dll+0x182190
+  #11 client.dll+0x18108B
+  #12 client.dll+0x181791
+  #13 client.dll+0x286BAC
+  #14 client.dll+0x288320
+  #15 client.dll+0x91A7C
+  #16 client.dll+0x91CB3
+  #17 client.dll+0x9206A
+  #18 engine.dll+0xC6C03
+  #19 engine.dll+0x12A89A
+  #20 engine.dll+0x1C6D4B
+  #21 engine.dll+0x1C669F
+  #22 engine.dll+0x1C467C
+  #23 engine.dll+0x1D4564
+  #24 engine.dll+0x1D3A90
+  #25 engine.dll+0x1D3BD4
+  #26 engine.dll+0x2250D6
+  #27 engine.dll+0x223A67
+  stack[1] hl2.exe+0xFFC00000
+  stack[2] hl2.exe+0xFFC00000
+  stack[3] hl2.exe+0xFFC00000
+  stack[18] client.dll+0x1ADA6D
+  stack[28] client.dll+0x2AE53
+  stack[35] hl2.exe+0xFFC00000
+  stack[42] hl2.exe+0xFFC00000
+  stack[43] hl2.exe+0xFFC00000
+  stack[44] hl2.exe+0xFFC00000
+  stack[60] hl2.exe+0xFFC00000
+  stack[64] hl2.exe+0xFFC00000
+  stack[65] hl2.exe+0xFFC00000
+  stack[78] vphysics.dll+0x8C09A
+  stack[95] hl2.exe+0xFFC00000
+---- exception 0xC0000005 at client.dll+0x1B0AD5 (tid 300)
+  access READ address 0x99AD2FF8
+  eax=A43FFFFE ebx=08AD3000 ecx=00000030 edx=26CBDAC8 esi=00000001 edi=0007FF00 ebp=0072AFB0 esp=0072AF6C
+  #0 client.dll+0x1ADA6D
+  #1 client.dll+0x2AE53
+  #2 client.dll+0x488A1
+  #3 client.dll+0x2CDC8
+  #4 client.dll+0x25E4D
+  #5 client.dll+0x29DBC
+  #6 client.dll+0x2CE8A
+  #7 client.dll+0x2B276
+  #8 client.dll+0x2B2A7
+  #9 client.dll+0x17FBED
+  #10 client.dll+0x182190
+  #11 client.dll+0x18108B
+  #12 client.dll+0x181791
+  #13 client.dll+0x286BAC
+  #14 client.dll+0x288320
+  #15 client.dll+0x91A7C
+  #16 client.dll+0x91CB3
+  #17 client.dll+0x9206A
+  #18 engine.dll+0xC6C03
+  #19 engine.dll+0x12A89A
+  #20 engine.dll+0x1C6D4B
+  #21 engine.dll+0x1C669F
+  #22 engine.dll+0x1C467C
+  #23 engine.dll+0x1D4564
+  #24 engine.dll+0x1D3A90
+  #25 engine.dll+0x1D3BD4
+  #26 engine.dll+0x2250D6
+  #27 engine.dll+0x223A67
+  stack[1] hl2.exe+0xFFC00000
+  stack[2] hl2.exe+0xFFC00000
+  stack[3] hl2.exe+0xFFC00000
+  stack[18] client.dll+0x1ADA6D
+  stack[28] client.dll+0x2AE53
+  stack[35] hl2.exe+0xFFC00000
+  stack[42] hl2.exe+0xFFC00000
+  stack[43] hl2.exe+0xFFC00000
+  stack[44] hl2.exe+0xFFC00000
+  stack[60] hl2.exe+0xFFC00000
+  stack[64] hl2.exe+0xFFC00000
+  stack[65] hl2.exe+0xFFC00000
+  stack[78] vphysics.dll+0x8C09A
+  stack[95] hl2.exe+0xFFC00000
+loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\client.dll (pid 296)
+loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\server.dll (pid 296)
+loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\client.dll (pid 296)
+loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\server.dll (pid 296)
+loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\client.dll (pid 296)
+loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\server.dll (pid 296)
+loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\client.dll (pid 296)
+loaded z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\bin\server.dll (pid 296)

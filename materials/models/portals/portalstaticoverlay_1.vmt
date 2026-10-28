@@ -1,0 +1,45 @@
+// Shattered Life - muted blue portal rim (older Aperture prototype look).
+// Same as Portal's models/portals/portalstaticoverlay_1.vmt, except:
+//   * $PortalColorTexture points at a desaturated copy of the colour ramp
+//     (portal-blue-color-muted: 60% of the original chroma, mixed toward luma),
+//     so the ring reads dusty slate blue instead of neon blue;
+//   * $PortalColorScale drops from 4.0 to 1.4, Portal's own non-HDR value, so the
+//     rim no longer clips to white.
+// The portal *hole* (portal_refract_1, portal_1_dynamicmesh) is untouched; this
+// only changes the ring. Delete this file for stock brightness/saturation.
+// The pre-DirectX-9 block is left at the stock ramp: it never runs on this
+// engine, which uses the ps20b PortalStaticOverlay shader.
+"PortalRefract"
+{
+	"$Stage" "2"
+	"$PortalOpenAmount" "0.0"
+	"$PortalStatic" "0.0"
+
+	"$PortalMaskTexture" "models/portals/noise-blur-256x256"
+	"$PortalColorTexture" "models/portals/portal-blue-color-muted"
+	"$PortalColorScale" "1.4"
+
+	"<DX90"
+	{
+		"$PortalMaskTexture" "models/portals/portal-mask-dx8"
+		"$PortalColorTexture" "models/portals/portal-blue-color-dx8"
+		"$PortalColorScale" "1.4"
+	}
+
+	"$time" "0.0"
+	"Proxies"
+	{
+		"CurrentTime"
+		{
+			"resultVar" "$time"
+		}
+		"PortalOpenAmount"
+		{
+			"resultVar" "$PortalOpenAmount"
+		}
+		"PortalStatic"
+		{
+			"resultVar" "$PortalStatic"
+		}
+	}
+}

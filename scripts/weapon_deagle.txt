@@ -1,8 +1,8 @@
 // Shattered Life - Desert Eagle
 // Semi-auto, 357 ammo. Right click = aim down sights.
-// PLACEHOLDER MODEL: v_357 until models/weapons/v_deagle.mdl is compiled.
-// When it is, change the two model lines and re-tune the IronSight block
-// (use sl_vm_ironsight_edit 1 in the console to tune it live).
+// Viewmodel: deagle on HL2's v_pistol rig and animations (2026-10-28).
+// The gun moved when it switched from the .357 rig: re-tune the IronSight
+// block (sl_vm_ironsight_edit 1 in the console tunes it live).
 
 WeaponData
 {
@@ -48,7 +48,7 @@ WeaponData
 	{
 		"empty"			"Weapon_Pistol.Empty"
 		"single_shot"	"Weapon_Deagle.Single"
-		"reload"		"Weapon_357.Reload"
+		"reload"		"Weapon_Pistol.Reload"
 	}
 
 	TextureData
