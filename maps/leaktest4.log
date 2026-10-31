@@ -1,0 +1,52 @@
+
+
+
+materialPath: Z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\HLShattered\materials
+Loading Z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\HLShattered\maps\leaktest4.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Brush 900002: no visible sides on brush
+Brush 900002: no visible sides on brush
+Brush 900002: no visible sides on brush
+Brush 900009: no visible sides on brush
+Brush 900009: no visible sides on brush
+Brush 900009: no visible sides on brush
+Brush 900016: no visible sides on brush
+Brush 900016: no visible sides on brush
+Brush 900016: no visible sides on brush
+Brush 900023: no visible sides on brush
+Brush 900023: no visible sides on brush
+Brush 900023: no visible sides on brush
+Brush 900030: no visible sides on brush
+Brush 900030: no visible sides on brush
+Brush 900030: no visible sides on brush
+Brush 900002: no visible sides on brush
+Brush 900002: no visible sides on brush
+Brush 900002: no visible sides on brush
+Brush 900009: no visible sides on brush
+Brush 900009: no visible sides on brush
+Brush 900009: no visible sides on brush
+Brush 900016: no visible sides on brush
+Brush 900016: no visible sides on brush
+Brush 900016: no visible sides on brush
+Brush 900023: no visible sides on brush
+Brush 900023: no visible sides on brush
+Brush 900023: no visible sides on brush
+Brush 900030: no visible sides on brush
+Brush 900030: no visible sides on brush
+Brush 900030: no visible sides on brush
+Could not locate 'GameData' key in z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\gameinfo.txt
+Patching WVT material: maps/leaktest4/nature/blenddirtgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1884 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing Z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\HLShattered\maps\leaktest4.prt...Building visibility clusters...
+done (0)
+bmodel 520 has no head node (class 'func_illusionary', targetname '')

@@ -55,3 +55,11 @@ $sequence "lowtoidle" "../../Blender/v_portalgun/anims/lowtoidle.smd" fps 30 ACT
 $sequence "lowidle" "../../Blender/v_portalgun/anims/lowidle.smd" fps 30 ACT_VM_IDLE_LOWERED 1 loop
 $sequence "pickup" "../../Blender/v_portalgun/anims/pickup.smd" fps 30 ACT_VM_PICKUP 1
 $sequence "release" "../../Blender/v_portalgun/anims/release.smd" fps 30 ACT_VM_RELEASE 1
+
+// The portal gun has no clip, but the Aperture grenade launcher
+// (scripts/weapon_aperture_gl.txt) shares this viewmodel and its Reload() calls
+// CBaseCombatWeapon::DefaultReload, which sends ACT_VM_RELOAD. There is no
+// authored reload animation yet, so reuse the lowering motion as a stand-in:
+// the gun dips out of view while the grenade is loaded and idle brings it back.
+// Replace this line with a real reload.smd when one is authored in Blender.
+$sequence "reload" "../../Blender/v_portalgun/anims/idletolow.smd" fps 30 ACT_VM_RELOAD 1

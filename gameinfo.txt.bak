@@ -1,0 +1,55 @@
+"GameInfo"
+{
+	game		"Half-Life: Shattered"
+	title		"Half-Life: Shattered"
+	type		singleplayer_only
+	hasportals	1
+	supportsvr	1
+
+	FileSystem
+	{
+		SteamAppId	220
+
+		SearchPaths
+		{
+			game+mod			|gameinfo_path|custom/*
+			game+mod			|gameinfo_path|.
+			mod+mod_write+default_write_path	|gameinfo_path|.
+			gamebin				|gameinfo_path|bin
+
+			// Episode One / Two content (the code is built as Portal + Episodic,
+			// so hunters, advisors, EP2 effects etc. are available)
+			game+mod			|all_source_engine_paths|ep2/ep2_pak.vpk
+			game				|all_source_engine_paths|episodic/ep1_pak.vpk
+			game				|all_source_engine_paths|ep2
+			game				|all_source_engine_paths|episodic
+
+			game_lv				|all_source_engine_paths|hl2/hl2_lv.vpk
+			game+mod			|all_source_engine_paths|hl2/hl2_sound_vo_english.vpk
+			game+mod			|all_source_engine_paths|hl2/hl2_pak.vpk
+			game				|all_source_engine_paths|hl2/hl2_textures.vpk
+			game				|all_source_engine_paths|hl2/hl2_sound_misc.vpk
+			game				|all_source_engine_paths|hl2/hl2_misc.vpk
+			platform			|all_source_engine_paths|platform/platform_misc.vpk
+
+			// HL2 Linux game binaries
+			gamebin				|all_source_engine_paths|hl2/bin
+			game				|all_source_engine_paths|hl2
+
+			// Portal content (portal gun, portals, particles, sounds, HUD).
+			// This engine reads the Portal 1 particle format (pcf 1) and VTF 7.0;
+			// Portal 2's pcf 2/newer VTF files fail to load ("UtlBuffer is the wrong
+			// type"), so mount Portal 1 — not Portal 2, even though it is installed.
+			// Portal lives in a different Steam library than this mod, so the path
+			// is absolute; update it if the game is moved again.
+			//
+			// NOTE: since Portal was updated on 2026-10-21 the content is a split
+			// VPK — portal_pak_dir.vpk plus portal_pak_000..005.vpk — and the old
+			// single-file "portal_pak.vpk" no longer exists. Mount the _dir file.
+			game+mod				"/media/hyper/Storage HDD/SteamLibrary/steamapps/common/Portal/portal/portal_pak_dir.vpk"
+			game					"/media/hyper/Storage HDD/SteamLibrary/steamapps/common/Portal/portal"
+
+			platform			|all_source_engine_paths|platform
+		}
+	}
+}

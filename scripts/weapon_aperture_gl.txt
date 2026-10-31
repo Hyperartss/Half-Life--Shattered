@@ -1,12 +1,18 @@
-// Shattered Life - Aperture Science Grenade Launcher (Prototype)
-// Primary: lob a bouncing grenade (goes through portals). Secondary: detonate all.
-// PLACEHOLDER MODEL: SMG1 until the prototype model exists.
+// Shattered Life - Aperture Science Sentry Launcher (Prototype)
+// Primary: throw a sentry pod that unfolds into a small turret where it lands.
+//          The turret rights itself, hunts for a target for a few seconds, then
+//          holds its ground and fires bursts. It blows up when its ammo runs out.
+// Secondary: detonate every turret you have deployed.
+// Live turret cap / throw speed: sl_agl_max_live, sl_agl_speed.
+// Model: the Aperture Science Handheld Portal Device viewmodel/worldmodel from
+// modelsrc/v_portalgun (animations in Blender/v_portalgun), so the launcher uses
+// the Aperture gun's mesh, skeleton and ACT_VM_* sequences.
 
 WeaponData
 {
 	"printname"			"#SL_ApertureGL"
-	"viewmodel"			"models/weapons/v_smg1.mdl"
-	"playermodel"		"models/weapons/w_smg1.mdl"
+	"viewmodel"			"models/weapons/v_portalgun.mdl"
+	"playermodel"			"models/weapons/w_portalgun.mdl"
 	"anim_prefix"		"smg2"
 	"bucket"			"3"
 	"bucket_position"	"0"
@@ -43,18 +49,18 @@ WeaponData
 	{
 		"weapon"
 		{
-			"font"		"WeaponIcons"
-			"character"	"a"
+			"font"		"WeaponIconsRB"
+			"character"	"l"
 		}
 		"weapon_s"
 		{
-			"font"		"WeaponIconsSelected"
-			"character"	"a"
+			"font"		"WeaponIconsSelectedRB"
+			"character"	"l"
 		}
 		"weapon_small"
 		{
-			"font"		"WeaponIconsSmall"
-			"character"	"a"
+			"font"		"WeaponIconsSmallRB"
+			"character"	"l"
 		}
 		"ammo"
 		{

@@ -1,5 +1,6 @@
 "GameInfo"
 {
+	Icon		"resource/steamunifier_icon"
 	game		"Half-Life: Shattered"
 	title		"Half-Life: Shattered"
 	type		singleplayer_only
@@ -39,10 +40,15 @@
 			// Portal content (portal gun, portals, particles, sounds, HUD).
 			// This engine reads the Portal 1 particle format (pcf 1) and VTF 7.0;
 			// Portal 2's pcf 2/newer VTF files fail to load ("UtlBuffer is the wrong
-			// type"), so mount Portal 1. It lives in a different Steam library than
-			// this mod, so the path is absolute. Update it if the game is moved.
-			game+mod			"/media/hyper/Storage HDD/SteamLibrary/steamapps/common/Portal/portal/portal_pak.vpk"
-			game				"/media/hyper/Storage HDD/SteamLibrary/steamapps/common/Portal/portal"
+			// type"), so mount Portal 1 — not Portal 2, even though it is installed.
+			// Portal lives in a different Steam library than this mod, so the path
+			// is absolute; update it if the game is moved again.
+			//
+			// NOTE: since Portal was updated on 2026-10-21 the content is a split
+			// VPK — portal_pak_dir.vpk plus portal_pak_000..005.vpk — and the old
+			// single-file "portal_pak.vpk" no longer exists. Mount the _dir file.
+			game+mod				"/media/hyper/Storage HDD/SteamLibrary/steamapps/common/Portal/portal/portal_pak_dir.vpk"
+			game					"/media/hyper/Storage HDD/SteamLibrary/steamapps/common/Portal/portal"
 
 			platform			|all_source_engine_paths|platform
 		}

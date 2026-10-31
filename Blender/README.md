@@ -18,6 +18,39 @@ Each folder holds the QC plus `anims/`, one SMD per sequence and `ref.smd`
 
 ---
 
+## 0. The easy way: the SL Viewmodel add-on
+
+`tools/blender_addon/sl_viewmodel-1.0.0.zip` puts the whole workflow below in
+one place. Install it once: **Edit > Preferences > Get Extensions > ▾ (top
+right) > Install from Disk...** and pick the zip. If Steam's Blender is in a
+different place than the defaults, set the mod folder and `studiomdl.exe` in
+the add-on's preferences (**Add-ons > SL Viewmodel**).
+
+Then in the 3D viewport press **N** and open the **Viewmodel** tab:
+
+1. **Weapon**: pick deagle / wrench / organic rifle / portal gun, *Load
+   weapon*. It clears the scene, imports the QC, builds the IK handles and
+   camera, and shows animation 1.
+2. **Animations**: every animation as a numbered list with its activity and
+   length. Click one to edit it (the timeline jumps to its frames). **+** makes
+   a new one (a copy of the selected one, or just its first frame and a length
+   you choose), **-** deletes, the pencil renames, the arrows step through
+   them. Set what the game plays it for (*Activity*: fire, reload, idle...),
+   *Weight*, *FPS* and *Loop* below the list.
+3. **Pose**: the hands, fingers and gun parts panel described in section 4.
+4. **Save and test**: *Export* this animation or all of them into
+   `Blender/<weapon>/anims/` (the first time a file is overwritten the
+   decoded original is kept in `anims/_original/`). *Export mesh* after
+   adding gun-part bones. *Test model* exports everything and compiles
+   `models/sl_animtest/<weapon>.mdl`; *Game model* compiles the real
+   `models/weapons/<weapon>.mdl` with your animations: it writes
+   `modelsrc/<weapon>/<weapon>_anims.qci` and swaps the shipping QC's
+   `$includemodel` for it (both at once would make the game pick stock or
+   yours at random). *Show compile log* opens studiomdl's output.
+
+The add-on's source is next to the zip in `tools/blender_addon/sl_viewmodel/`.
+The manual steps below still work and explain what each button does.
+
 ## 1. Open Blender
 
 `~/.local/bin/blender` (Steam's Blender 5.0). **Blender Source Tools is already

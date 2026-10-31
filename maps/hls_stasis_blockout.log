@@ -1,0 +1,558 @@
+
+
+
+materialPath: Z:\home\hyper\.steam\steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading Z:\home\hyper\.steam\steam\steamapps\sourcemods\HLShattered\maps\hls_stasis_blockout.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Brush 798: bounds out of range
+Brush 805: bounds out of range
+Brush 819: bounds out of range
+Brush 819: no visible sides on brush
+Brush 826: bounds out of range
+Brush 833: bounds out of range
+Brush 840: bounds out of range
+Brush 840: no visible sides on brush
+Brush 847: bounds out of range
+Brush 847: no visible sides on brush
+Brush 854: bounds out of range
+Brush 854: no visible sides on brush
+Brush 861: bounds out of range
+Brush 861: no visible sides on brush
+Brush 868: bounds out of range
+Brush 868: no visible sides on brush
+Brush 878: bounds out of range
+Brush 878: no visible sides on brush
+Brush 887: bounds out of range
+Brush 887: no visible sides on brush
+Brush 896: bounds out of range
+Brush 896: no visible sides on brush
+Brush 905: bounds out of range
+Brush 905: no visible sides on brush
+Brush 914: bounds out of range
+Brush 914: no visible sides on brush
+Brush 923: bounds out of range
+Brush 923: no visible sides on brush
+Brush 932: bounds out of range
+Brush 932: no visible sides on brush
+Brush 941: bounds out of range
+Brush 941: no visible sides on brush
+Brush 950: bounds out of range
+Brush 950: no visible sides on brush
+Brush 959: bounds out of range
+Brush 959: no visible sides on brush
+Brush 968: bounds out of range
+Brush 968: no visible sides on brush
+Brush 977: bounds out of range
+Brush 977: no visible sides on brush
+Brush 1010: bounds out of range
+Brush 1010: no visible sides on brush
+Brush 1020: bounds out of range
+Brush 1020: no visible sides on brush
+Brush 1028: bounds out of range
+Brush 1028: no visible sides on brush
+Brush 1036: bounds out of range
+Could not locate 'GameData' key in z:\home\hyper\.steam\steam\steamapps\common\source sdk base 2013 singleplayer\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (17536.00 -1056.00 -48.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14368.0 -2048.0 512.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14880.0 -2048.0 512.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 -2560.0 512.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 -3072.0 512.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 -3072.0 512.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 -2048.0 2088.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 -2048.0 992.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 -2048.0 -584.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+HashVec: point outside valid range
+
+
+materialPath: Z:\home\hyper\.steam\steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading Z:\home\hyper\.steam\steam\steamapps\sourcemods\HLShattered\maps\hls_stasis_blockout.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Brush 798: bounds out of range
+Brush 805: bounds out of range
+Brush 819: bounds out of range
+Brush 819: no visible sides on brush
+Brush 826: bounds out of range
+Brush 833: bounds out of range
+Brush 840: bounds out of range
+Brush 840: no visible sides on brush
+Brush 847: bounds out of range
+Brush 847: no visible sides on brush
+Brush 854: bounds out of range
+Brush 854: no visible sides on brush
+Brush 861: bounds out of range
+Brush 861: no visible sides on brush
+Brush 868: bounds out of range
+Brush 868: no visible sides on brush
+Brush 878: bounds out of range
+Brush 878: no visible sides on brush
+Brush 887: bounds out of range
+Brush 887: no visible sides on brush
+Brush 896: bounds out of range
+Brush 896: no visible sides on brush
+Brush 905: bounds out of range
+Brush 905: no visible sides on brush
+Brush 914: bounds out of range
+Brush 914: no visible sides on brush
+Brush 923: bounds out of range
+Brush 923: no visible sides on brush
+Brush 932: bounds out of range
+Brush 932: no visible sides on brush
+Brush 941: bounds out of range
+Brush 941: no visible sides on brush
+Brush 950: bounds out of range
+Brush 950: no visible sides on brush
+Brush 959: bounds out of range
+Brush 959: no visible sides on brush
+Brush 968: bounds out of range
+Brush 968: no visible sides on brush
+Brush 977: bounds out of range
+Brush 977: no visible sides on brush
+Brush 1010: bounds out of range
+Brush 1010: no visible sides on brush
+Brush 1020: bounds out of range
+Brush 1020: no visible sides on brush
+Brush 1028: bounds out of range
+Brush 1028: no visible sides on brush
+Brush 1036: bounds out of range
+Could not locate 'GameData' key in z:\home\hyper\.steam\steam\steamapps\common\source sdk base 2013 singleplayer\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (17536.00 -1056.00 -48.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14368.0 -2048.0 512.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14880.0 -2048.0 512.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 -2560.0 512.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 -3072.0 512.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 -3072.0 512.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 -2048.0 2088.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 -2048.0 992.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 -2048.0 -584.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+HashVec: point outside valid range
+
+
+materialPath: Z:\home\hyper\.steam\steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading Z:\home\hyper\.steam\steam\steamapps\sourcemods\HLShattered\maps\hls_stasis_blockout.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Brush 798: bounds out of range
+Brush 805: bounds out of range
+Brush 819: bounds out of range
+Brush 819: no visible sides on brush
+Brush 826: bounds out of range
+Brush 833: bounds out of range
+Brush 840: bounds out of range
+Brush 840: no visible sides on brush
+Brush 847: bounds out of range
+Brush 847: no visible sides on brush
+Brush 854: bounds out of range
+Brush 854: no visible sides on brush
+Brush 861: bounds out of range
+Brush 861: no visible sides on brush
+Brush 868: bounds out of range
+Brush 868: no visible sides on brush
+Brush 878: bounds out of range
+Brush 878: no visible sides on brush
+Brush 887: bounds out of range
+Brush 887: no visible sides on brush
+Brush 896: bounds out of range
+Brush 896: no visible sides on brush
+Brush 905: bounds out of range
+Brush 905: no visible sides on brush
+Brush 914: bounds out of range
+Brush 914: no visible sides on brush
+Brush 923: bounds out of range
+Brush 923: no visible sides on brush
+Brush 932: bounds out of range
+Brush 932: no visible sides on brush
+Brush 941: bounds out of range
+Brush 941: no visible sides on brush
+Brush 950: bounds out of range
+Brush 950: no visible sides on brush
+Brush 959: bounds out of range
+Brush 959: no visible sides on brush
+Brush 968: bounds out of range
+Brush 968: no visible sides on brush
+Brush 977: bounds out of range
+Brush 977: no visible sides on brush
+Brush 1010: bounds out of range
+Brush 1010: no visible sides on brush
+Brush 1020: bounds out of range
+Brush 1020: no visible sides on brush
+Brush 1028: bounds out of range
+Brush 1028: no visible sides on brush
+Brush 1036: bounds out of range
+Could not locate 'GameData' key in z:\home\hyper\.steam\steam\steamapps\common\source sdk base 2013 singleplayer\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (17536.00 -1056.00 -48.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14368.0 -2048.0 512.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14880.0 -2048.0 512.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 -2560.0 512.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 -3072.0 512.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 -3072.0 512.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 -2048.0 2088.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 -2048.0 992.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 -2048.0 -584.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+HashVec: point outside valid range
+
+
+materialPath: Z:\home\hyper\.steam\steam\steamapps\common\Source SDK Base 2013 Singleplayer\ep2\materials
+Loading Z:\home\hyper\.steam\steam\steamapps\sourcemods\HLShattered\maps\hls_stasis_blockout.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in z:\home\hyper\.steam\steam\steamapps\common\source sdk base 2013 singleplayer\ep2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing Z:\home\hyper\.steam\steam\steamapps\sourcemods\HLShattered\maps\hls_stasis_blockout.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (51628 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 92 texinfos to 81
+Reduced 9 texdatas to 9 (202 bytes to 202)
+Writing Z:\home\hyper\.steam\steam\steamapps\sourcemods\HLShattered\maps\hls_stasis_blockout.bsp
+0 seconds elapsed
+
+
+
+24 threads
+reading z:\home\hyper\.steam\steam\steamapps\sourcemods\hlshattered\maps\hls_stasis_blockout.bsp
+reading z:\home\hyper\.steam\steam\steamapps\sourcemods\hlshattered\maps\hls_stasis_blockout.prt
+ 222 portalclusters
+ 539 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 11338
+Average clusters visible: 51
+Building PAS...
+Average clusters audible: 56
+visdatasize:6651  compressed from 14208
+writing z:\home\hyper\.steam\steam\steamapps\sourcemods\hlshattered\maps\hls_stasis_blockout.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading z:\home\hyper\.steam\steam\steamapps\sourcemods\hlshattered\maps\hls_stasis_blockout.bsp
+1355 faces
+3124334 square feet [449904128.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1355 patches before subdivision
+82691 patches after subdivision
+52 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3757314, max 363
+transfer lists:  28.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(328694, 107380, 18538)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(115399, 11782, 477)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(46107, 1456, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(19103, 190, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(8935, 27, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4069, 4, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2167, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1064, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(631, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(329, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(209, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(114, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(76, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(43, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(29, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(17, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0173 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  24/1024         1152/49152    ( 2.3%) 
+brushes                126/8192         1512/98304    ( 1.5%) 
+brushsides             756/65536        6048/524288   ( 1.2%) 
+planes                 582/65536       11640/1310720  ( 0.9%) 
+vertexes              1783/65536       21396/786432   ( 2.7%) 
+nodes                  733/65536       23456/2097152  ( 1.1%) 
+texinfos                81/12288        5832/884736   ( 0.7%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1355/65536       75880/3670016  ( 2.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              509/65536       28504/3670016  ( 0.8%) 
+leaves                 758/65536       24256/2097152  ( 1.2%) 
+leaffaces             1580/65536        3160/131072   ( 2.4%) 
+leafbrushes            514/65536        1028/131072   ( 0.8%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges             8008/512000      32032/2048000  ( 1.6%) 
+edges                 4333/256000      17332/1024000  ( 1.7%) 
+LDR worldlights         52/8192         4576/720896   ( 0.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             78/32768         780/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1104/65536        2208/131072   ( 1.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1534240/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        6651/16777216 ( 0.0%) 
+entdata               [variable]       32094/393216   ( 8.2%) 
+LDR ambient table      758/65536        3032/262144   ( 1.2%) 
+HDR ambient table      758/65536        3032/262144   ( 1.2%) 
+LDR leaf ambient      4293/65536      120204/1835008  ( 6.6%) 
+HDR leaf ambient       758/65536       21224/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      105707/0        ( 0.0%) 
+physics               [variable]       51628/4194304  ( 1.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 3262
+Writing z:\home\hyper\.steam\steam\steamapps\sourcemods\hlshattered\maps\hls_stasis_blockout.bsp
+17 seconds elapsed

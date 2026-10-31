@@ -1,28 +1,25 @@
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+CSoundEmitterSystem:  Registered 5239 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (217 rules, 214 criteria, and 208 responses)
+Unable to remove z:\home\hyper\.steam\debian-installation\steamapps\sourcemods\hlshattered\gamestats.log!
 maxplayers set to 1
-Steam config directory: Z:\home\hyper\.steam\debian-installation\steamapps\common\Half-Life 2\platform\config
+Heap: 256.00 Mb
+Steam config directory: Z:\home\hyper\.steam\debian-installation\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 26 text messages
 CClientSteamContext logged on = 1
-Couldn't parse script sequence 'SuitAuxPowerNoItemsActive': expected <anim command>, found '[!$DECK]'
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
 Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
 Hud element 'CHudLocator' doesn't have an entry 'HudLocator' in scripts/HudLayout.res
-Couldn't parse script sequence 'SuitAuxPowerNoItemsActive': expected <anim command>, found '[!$DECK]'
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+ModSettingsPanel has been constructed
+[Cloud]: SUCCEESS retrieved cfg/config.cfg from remote storage into cfg/config.cfg
+execing config.cfg
 Unknown command "cl_thirdperson"
-Can't use cheat cvar cam_snapto in multiplayer, unless the server has sv_cheats set to 1.
-Can't use cheat cvar cam_ideallag in multiplayer, unless the server has sv_cheats set to 1.
-Can't use cheat cvar cam_idealdelta in multiplayer, unless the server has sv_cheats set to 1.
-Can't use cheat cvar cam_idealyaw in multiplayer, unless the server has sv_cheats set to 1.
-Can't use cheat cvar cam_idealpitch in multiplayer, unless the server has sv_cheats set to 1.
-Can't use cheat cvar cam_idealdist in multiplayer, unless the server has sv_cheats set to 1.
-Can't use cheat cvar cam_idealdistright in multiplayer, unless the server has sv_cheats set to 1.
-Can't use cheat cvar cam_idealdistup in multiplayer, unless the server has sv_cheats set to 1.
-Can't use cheat cvar cam_collision in multiplayer, unless the server has sv_cheats set to 1.
-Can't use cheat cvar c_maxpitch in multiplayer, unless the server has sv_cheats set to 1.
-Can't use cheat cvar c_minpitch in multiplayer, unless the server has sv_cheats set to 1.
-Can't use cheat cvar c_maxyaw in multiplayer, unless the server has sv_cheats set to 1.
-Can't use cheat cvar c_minyaw in multiplayer, unless the server has sv_cheats set to 1.
-Can't use cheat cvar c_maxdistance in multiplayer, unless the server has sv_cheats set to 1.
-Can't use cheat cvar c_mindistance in multiplayer, unless the server has sv_cheats set to 1.
-Can't use cheat cvar c_orthowidth in multiplayer, unless the server has sv_cheats set to 1.
-Can't use cheat cvar c_orthoheight in multiplayer, unless the server has sv_cheats set to 1.
+cc_lang = 
 JOY_AXIS_X:  mapped to Turn (absolute)
 JOY_AXIS_Y:  mapped to Look (absolute)
 JOY_AXIS_Z:  unmapped
@@ -31,18 +28,87 @@ JOY_AXIS_U:  mapped to Side (absolute)
 JOY_AXIS_V:  unmapped
 Advanced Joystick settings initialized
 Unknown command "sv_backspeed"
+Unknown command "snd_ducktovolume_commentary"
+Unknown command "snd_ducktovolume_commentary_othervoice"
+Unknown command "hl2_expansion"
+Unknown command "sv_unlockedchapters_hl2"
+Unknown command "sv_unlockedchapters_episodic"
+Unknown command "sv_unlockedchapters_ep2"
+Unknown command "save_transition_music"
+Unknown command "workshop_prioritise_campaign_mount"
+Unknown command "sc_joystick_map"
+Unknown command "sc_debug_sets"
 Not playing a local game.
-[CWorkshop] Querying for subscribed files...
-[CWorkshop] Subscribed item count: 0
+[Cloud]: SUCCEESS retrieved materials/vgui/logos/spray.vtf from remote storage into materials/vgui/logos/spray.vtf
+[Cloud]: SUCCEESS retrieved materials/vgui/logos/spray.vmt from remote storage into materials/vgui/logos/spray.vmt
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+24 CPUs, Frequency: 3.8 Ghz,  Features: AuthenticAMD SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+execing autoexec.cfg
+material "vgui/servers/icon_replay" not found.
 --- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
 --- Missing Vgui material vgui/servers/icon_replay_column
-env_cubemap used on world geometry without rebuilding map. . ignoring: glass/glasswindow007a
-env_cubemap used on world geometry without rebuilding map. . ignoring: metal/metalwall048a
+---- Host_NewGame ----
+Spawn Server: hls_stasis_blockout_v3_fixed
+env_cubemap used on world geometry without rebuilding map. . ignoring: metal/metalfloor001a
+execing skill_manifest.cfg
+execing skill.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+PrecacheScriptSound 'NPC_CombineBall_Episodic.Explosion' failed, no such sound script entry
+PrecacheScriptSound 'NPC_CombineBall_Episodic.WhizFlyby' failed, no such sound script entry
+PrecacheScriptSound 'NPC_CombineBall_Episodic.Impact' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Empty' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Single' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.NPC_Single' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Burst' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Reload' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.NPC_Reload' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Special1' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Alyx_Gun.Special2' failed, no such sound script entry
+prop_dynamic at 3395 -712 -160 uses model models/props_c17/furniturecouch001a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 3524 -695 -160 uses model models/props_c17/furnituretable001a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 3437 -965 -160 uses model models/props_interiors/radiator01a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 2373 1497 160 uses model models/props_c17/oildrum001.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 2410 1452 160 uses model models/props_c17/oildrum001.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 2636 1635 160 uses model models/props_junk/trashbin01a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 1973 1442 420 uses model models/props_junk/wood_crate001a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 1993 1386 420 uses model models/props_junk/wood_crate001a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 1709 -923 -220 uses model models/props_junk/trashbin01a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+Dynamic prop stasis_body: no sequence named:idle1
+prop_dynamic at 1119 -1704 180 uses model models/props_c17/oildrum001.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at 401 -1412 330 uses model models/props_junk/wood_crate001a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at -5561 652 520 uses model models/props_c17/furniturecouch001a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at -5690 635 520 uses model models/props_c17/furnituretable001a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at -5603 905 520 uses model models/props_interiors/radiator01a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
+prop_dynamic at -6530 -549 -420 uses model models/props_junk/trashbin01a.mdl, which has propdata which means that it be used on a prop_physics. DELETED.
 'cfg/motd.txt' not found; not loaded
 'cfg/motd_text.txt' not found; not loaded
-SV_ActivateServer: setting tickrate to 66.7
-Attemped to precache unknown particle system "explosion_turret_break"!
-Compact freed 483328 bytes
+Created class baseline: 8 classes, 1806 bytes.
+Game started
+
+Half-Life 2
+Map: hls_stasis_blockout_v3_fixed
+Players: 1 / 1
+Build: 9862575
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/hls_stasis_blockout_v3_fixed.txt.
+Sending full update to Client HyperArts
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 51.645 KB, outgoing 890 bytes
+Queued Material System: ENABLED!
+Compact freed 528384 bytes
 JOY_AXIS_X:  mapped to Turn (absolute)
 JOY_AXIS_Y:  mapped to Look (absolute)
 JOY_AXIS_Z:  unmapped
@@ -50,101 +116,6 @@ JOY_AXIS_R:  mapped to Forward (absolute)
 JOY_AXIS_U:  mapped to Side (absolute)
 JOY_AXIS_V:  unmapped
 Advanced Joystick settings initialized
+Node Graph out of Date. Rebuilding... (0, 1, 0)
 Redownloading all lightmaps
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_wrench[14]: Playing sequence 2 but there's only 1 in total?
-weapon_portalgun[80]: Playing sequence 3 but there's only 1 in total?
-Dropped HyperArts from server (Server shutting down)
-Host_WriteConfiguration: Wrote cfg/config.cfg
-Shutdown function ShutdownMixerControls() not in list!!!
+R_RedownloadAllLightmaps took 16.479 msec!
