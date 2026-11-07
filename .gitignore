@@ -1,1 +1,20 @@
 /src/
+
+# Engine runtime state and build scratch — regenerated on launch, not mod content.
+/cfg/config.cfg
+/cfg/server_blacklist.txt
+/save/
+/DownloadLists/
+/console.log
+/qconsole.log
+/modelsounds.cache
+/gamestate.txt
+/stats.txt
+/voice_ban.dt
+/videoconfig_linux.cfg
+/sl_crash.txt
+/demoheader.tmp
+*.log
+*.mdmp
+*.dmp
+__pycache__/
